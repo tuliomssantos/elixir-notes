@@ -7,6 +7,7 @@
 - [IEx](IEx.md)
 - [Declarative Programming](declarative-programming.md)
 - [Data Types](data-types.md)
+- [Atoms and Tuples](atoms-and-tuples.md)
 
 ## What is Elixir?
 
