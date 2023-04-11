@@ -37,6 +37,14 @@ Overall, Elixir is a powerful and versatile language that is well-suited for bui
 
 ## Learning Roadmap
 
+### Elixir Core
+  - Fundamentals (Types, Pattern Matching, Pipe Operator, Functions, Modules)
+  - Data Structures (Structs, Enum, Lists, Tuples, Maps, Keyword Lists, Sets)
+  - [Control Structures](https://elixirschool.com/en/lessons/basics/control_structures)
+  - Unit Testing (ExUnit)
+
+### Overall 
+
 - Learn the basics of functional programming: Before you start programming with Elixir, it's important to understand the basics of functional programming. Elixir is a functional language that is built on top of the Erlang virtual machine, so understanding the functional programming concepts will help you understand Elixir better.
 - Install Elixir: Install Elixir on your computer by following the instructions on the official website (https://elixir-lang.org/install.html). Elixir is available for Windows, macOS, and Linux.
 - Learn the Elixir syntax: The Elixir syntax is similar to Ruby, so if you're familiar with Ruby, you'll find Elixir easy to learn. However, if you're not familiar with Ruby, you can still learn Elixir by reading the Elixir documentation and tutorials.
