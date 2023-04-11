@@ -9,6 +9,7 @@
 - [Data Types](data-types.md)
 - [Atoms and Tuples](atoms-and-tuples.md)
 - [Basic Operators](basic-operators.md)
+- [Mix](mix.md)
 
 ## What is Elixir?
 
