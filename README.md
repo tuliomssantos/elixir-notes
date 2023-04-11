@@ -6,6 +6,7 @@
 - [Functional Programming](functional-programming.md)
 - [IEx](IEx.md)
 - [Declarative Programming](declarative-programming.md)
+- [Data Types](data-types.md)
 
 ## What is Elixir?
 
