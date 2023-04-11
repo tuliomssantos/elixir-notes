@@ -32,3 +32,14 @@ Elixir is a functional programming language that runs on the Erlang virtual mach
 
 Overall, Elixir is a powerful and versatile language that is well-suited for building distributed, fault-tolerant systems. Learning Elixir requires a solid foundation in functional programming concepts, as well as an understanding of the tools and libraries that are specific to the Elixir ecosystem.
 
+## Learning Roadmap
+
+- Learn the basics of functional programming: Before you start programming with Elixir, it's important to understand the basics of functional programming. Elixir is a functional language that is built on top of the Erlang virtual machine, so understanding the functional programming concepts will help you understand Elixir better.
+- Install Elixir: Install Elixir on your computer by following the instructions on the official website (https://elixir-lang.org/install.html). Elixir is available for Windows, macOS, and Linux.
+- Learn the Elixir syntax: The Elixir syntax is similar to Ruby, so if you're familiar with Ruby, you'll find Elixir easy to learn. However, if you're not familiar with Ruby, you can still learn Elixir by reading the Elixir documentation and tutorials.
+- Study the OTP: OTP (Open Telecom Platform) is a set of libraries and tools that comes with Erlang and Elixir. OTP provides a set of abstractions for building scalable, fault-tolerant, and distributed systems. Understanding the OTP is essential if you want to build large-scale applications with Elixir.
+- Build a simple Elixir application: Start by building a simple Elixir application to get a feel for the language. You can build a command-line application, a web application, or a distributed system. The Elixir documentation has several examples that you can follow.
+- Learn Phoenix: Phoenix is a web framework for Elixir that is inspired by Ruby on Rails. Phoenix is built on top of Elixir and provides a set of tools for building scalable and fault-tolerant web applications. Learning Phoenix is essential if you want to build web applications with Elixir.
+- Learn Ecto: Ecto is a database library for Elixir that provides a set of abstractions for working with databases. Ecto is built on top of the OTP and provides a set of tools for building scalable and fault-tolerant database applications. Learning Ecto is essential if you want to build database applications with Elixir.
+- Read Elixir books and blogs: There are several books and blogs that cover Elixir in-depth. Some of the popular books include "Programming Elixir" by Dave Thomas, "Elixir in Action" by Saša Jurić, and "Metaprogramming Elixir" by Chris McCord. Reading Elixir books and blogs will help you learn advanced topics and best practices.
+- Join Elixir communities: Join online communities such as the Elixir Forum, Elixir Slack, and Elixir Discord to interact with other Elixir developers. The Elixir community is very friendly and helpful, and you'll get a lot of support from the community.
