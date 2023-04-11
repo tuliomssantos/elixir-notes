@@ -5,6 +5,7 @@
 ## Summary
 - [Functional Programming](functional-programming.md)
 
+## What is Elixir?
 
 Elixir is a functional programming language that runs on the Erlang virtual machine (BEAM). It is designed to be scalable, fault-tolerant, and easy to maintain. If you are looking to learn Elixir, here are some of the main concepts and knowledge areas to start with:
 
