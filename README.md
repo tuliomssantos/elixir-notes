@@ -8,6 +8,7 @@
 - [Declarative Programming](declarative-programming.md)
 - [Data Types](data-types.md)
 - [Atoms and Tuples](atoms-and-tuples.md)
+- [Basic Operators](basic-operators.md)
 
 ## What is Elixir?
 
