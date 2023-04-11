@@ -4,6 +4,7 @@
 
 ## Summary
 - [Functional Programming](functional-programming.md)
+- [IEx](IEx.md)
 
 ## What is Elixir?
 
