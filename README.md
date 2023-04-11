@@ -10,6 +10,7 @@
 - [Atoms and Tuples](atoms-and-tuples.md)
 - [Basic Operators](basic-operators.md)
 - [Mix](mix.md)
+- [Modules](modules.md)
 
 ## What is Elixir?
 
