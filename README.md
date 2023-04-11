@@ -56,3 +56,34 @@ Overall, Elixir is a powerful and versatile language that is well-suited for bui
 - Learn Ecto: Ecto is a database library for Elixir that provides a set of abstractions for working with databases. Ecto is built on top of the OTP and provides a set of tools for building scalable and fault-tolerant database applications. Learning Ecto is essential if you want to build database applications with Elixir.
 - Read Elixir books and blogs: There are several books and blogs that cover Elixir in-depth. Some of the popular books include "Programming Elixir" by Dave Thomas, "Elixir in Action" by Saša Jurić, and "Metaprogramming Elixir" by Chris McCord. Reading Elixir books and blogs will help you learn advanced topics and best practices.
 - Join Elixir communities: Join online communities such as the Elixir Forum, Elixir Slack, and Elixir Discord to interact with other Elixir developers. The Elixir community is very friendly and helpful, and you'll get a lot of support from the community.
+
+## Functional Programming x Object-Oriented Programming
+
+Functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
+
+Functional programming is a declarative programming paradigm. Declarative programming is a programming paradigm that expresses the logic of a computation without describing its control flow.
+
+Object-oriented programming is a programming paradigm based on the concept of "objects", which can contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.
+
+### Example
+
+```elixir
+# Functional Programming
+defmodule FunctionalProgramming do
+  def sum(a, b) do
+    a + b
+  end
+end
+```
+
+```java
+// Object-Oriented Programming
+public class ObjectOrientedProgramming {
+  public int sum(int a, int b) {
+    return a + b;
+  }
+}
+```
+
+
+
